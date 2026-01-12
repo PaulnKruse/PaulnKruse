@@ -7,7 +7,8 @@
 <h1 align="center">Paul Kruse</h1>
 
 <p align="center">
-  <b>Analytics Leader & Decision Maker</b> | Growth • Strategy • Execution
+  <b>Analytics Leader & Decision Maker</b> 
+  <b>| Growth • Strategy • Execution |</b>
   <br/>
   <i>I manage data to find growth & optimization opportunities for product & business development.</i>
 </p>
