@@ -8,7 +8,7 @@
 
 <p align="center">
   <b>Analytics Leader & Decision Maker</b> 
-  <b>| Growth • Strategy • Execution |</b>
+  <br>| Growth • Strategy • Execution |</br>
   <br/>
   <i>I manage data to find growth & optimization opportunities for product & business development.</i>
 </p>
