@@ -14,9 +14,18 @@
 </p>
 
 <p align="center">
-  <a href="[LINKEDIN_URL]">LinkedIn</a> •
-  <a href="[TWITTER_URL_OR_LEAVE_EMPTY]">X</a> •
-  <a href="[RESUME_LINK_OR_LEAVE_EMPTY]">Resume</a>
+  <a href="https://www.linkedin.com/in/paul-n-kruse/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
+  </a>
+  <a href="https://x.com/_PaulKruse1_" target="_blank">
+    <img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=ffffff" />
+  </a>
+
+  <!-- Enable when ready:
+  <a href="PASTE_RESUME_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-39FF14?style=for-the-badge&logo=readthedocs&logoColor=111827" />
+  </a>
+  -->
 </p>
 
 ---
