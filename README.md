@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- ====== HERO (Graphite theme) ====== -->
 <p align="center">
   <!-- We will add a dark Graphite banner image here next -->
@@ -11,7 +9,7 @@
 <p align="center">
   <b>Analytics Leader & Decision Maker</b> | Growth • Strategy • Execution
   <br/>
-  <i>Finding growth & optimization opportunities with data for product & business development.</i>
+  <i>I manage data to find growth & optimization opportunities for product & business development.</i>
 </p>
 
 <p align="center">
