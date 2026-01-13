@@ -38,9 +38,9 @@
 ## Proof of Work (Shipped)
 > Short, decision-oriented, and readable. (Links go live as each artifact ships.)
 
-1) **Marketplace Marketing Case Study (Tableau + narrative)** — *(shipping this week)*
-2) **Interview Narrative Pack (1:1 conversations)** — *(shipping this week)*
-3) **Automated Data Warehouse Build (Snowflake + SQL + orchestration)** — *(flagship writeup in progress)*
+1) **Meta Ads Growth Analytics Case Study** — https://github.com/PaulnKruse/marketing-case-study
+3) **Interview Narrative Pack (1:1 conversations)** — *(shipping this week)*
+4) **Automated Data Warehouse Build (Snowflake + SQL + orchestration)** — *(flagship writeup in progress)*
 
 ## Main Skills
 <p>
