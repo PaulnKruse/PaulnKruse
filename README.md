@@ -1,12 +1,12 @@
 <!--
   GITHUB PROFILE README - PAUL KRUSE
-  Draft created: 2026-01-19
+  Version 2 - 2026-01-19
   Copy this to your PaulnKruse/PaulnKruse repo
 -->
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=From+Saving+Goals+to+Saving+Data;D1+Athlete+%E2%86%92+Data+Engineer;Built+a+Data+Warehouse+from+Scratch;German+Precision+%2B+American+Ambition" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=From+Saving+Goals+to+Saving+Data;Elite+Academy+%E2%86%92+Data+Engineer;Built+a+Data+Warehouse+from+Scratch;German+Precision+%2B+American+Ambition" alt="Typing SVG" />
 </p>
 
 <!-- Profile Header -->
@@ -18,7 +18,7 @@
 <p align="center">
   <b>Data Engineer & Analytics Engineer</b>
   <br/>
-  <i>Former D1 Soccer Captain | MS Business Analytics | Building data infrastructure that drives decisions</i>
+  <i>Former D1 Captain | German Youth National Team | MS Business Analytics | Building data infrastructure that drives decisions</i>
 </p>
 
 <!-- Social Badges -->
@@ -49,19 +49,20 @@
 
 ```yaml
 name: Paul Kruse
-location: Germany → Charleston, SC (relocating 2026)
-current_focus: Building portfolio for US data engineering market
+location: Germany → Omaha, NE → Charleston, SC
+current_focus: Building portfolio for US data & analytics leadership market
 
 background:
-  - D1 Soccer Goalkeeper & Team Captain (5 years at Creighton University)
+  - Hoffenheim Academy Goalkeeper (8 years) → German U16 National Team
+  - D1 Athlete at Creighton University (5 years)
   - MS Business Analytics (3.97 GPA)
   - Built entire data infrastructure at a health-tech startup
 
 what_i_do:
-  - Design and implement data warehouse architectures
-  - Build ETL pipelines that actually work
-  - Create analytics that drive business decisions
-  - Turn chaos into systems
+  - Design data warehouse architectures that scale
+  - Build analytics that drive business decisions
+  - Turn ambiguous problems into clear action plans
+  - Lead with data, not assumptions or opinions
 
 fun_fact: "I went from making saves to making data pipelines.
            The pressure is different, but the discipline is the same."
@@ -71,9 +72,9 @@ fun_fact: "I went from making saves to making data pipelines.
 
 ## My Story
 
-**17 years of competitive soccer** taught me how to perform under pressure, lead teams through adversity, and never stop until the goal is achieved.
+**8 years in one of Europe's top academies** (TSG 1899 Hoffenheim) and a call-up to the **German U16 National Team** taught me what elite performance looks like. The discipline, the pressure, the relentless pursuit of improvement - it becomes part of who you are.
 
-At **Creighton University**, I was team captain for 3.5 years while earning a triple bachelor's degree and a Master's in Business Analytics with a 3.97 GPA. Our team made it to the NCAA Final Four - not because we had the best players, but because we implemented **data-driven decisions** before it was cool.
+At **Creighton University**, I was team captain for 3.5 years while earning a triple bachelor's degree and a Master's in Business Analytics with a 3.97 GPA. Our team made it to the **NCAA Final Four** - not because we had the best players, but because we implemented **data-driven decisions** before it was cool.
 
 At my first data job, I inherited **nothing** - no data warehouse, no pipelines, no documentation. I built the entire analytics infrastructure from scratch:
 
@@ -101,7 +102,6 @@ Building a public case study of how I architected a complete data warehouse from
 - Transformation logic
 - Quality validation
 
-**Status:** 🔨 In Progress
 
 </td>
 <td width="50%">
@@ -115,7 +115,6 @@ Multi-channel marketing analytics with:
 - ROI analysis
 - Automated reporting
 
-**Status:** ✅ [View Case Study](https://github.com/PaulnKruse/marketing-case-study)
 
 </td>
 </tr>
@@ -131,20 +130,19 @@ Product analytics covering:
 - Onboarding funnel optimization
 - Feature utilization tracking
 
-**Status:** 📋 Planned
 
 </td>
 <td width="50%">
 
-### ⚽ EPL Elite (Side Project)
-*Fantasy Premier League Analytics*
+### ⚽ Sports Analytics
+*Where my passion meets my profession*
 
-Building an algorithm-driven platform for FPL decisions:
-- Player form scoring
-- Fixture difficulty analysis
-- Transfer recommendations
+Combining my athletic background with data science:
+- Player performance modeling
+- Match outcome predictions
+- Fantasy sports optimization
+- The intersection of competition and analytics
 
-**Status:** 🔬 Research Phase
 
 </td>
 </tr>
@@ -158,36 +156,42 @@ Building an algorithm-driven platform for FPL decisions:
   <b>Data Engineering</b>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fivetran-0073FF?style=for-the-badge&logo=fivetran&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <a href="https://www.snowflake.com/">
+    <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  </a>
+  <a href="https://www.getdbt.com/">
+    <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  </a>
+  <a href="https://www.fivetran.com/">
+    <img src="https://img.shields.io/badge/Fivetran-0073FF?style=for-the-badge&logo=fivetran&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
   <b>Languages & Analysis</b>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://pandas.pydata.org/">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
   <b>Visualization & BI</b>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
-</p>
-
----
-
-## By The Numbers
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PaulnKruse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PaulnKruse&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
+  <a href="https://www.tableau.com/">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  </a>
+  <a href="https://powerbi.microsoft.com/">
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  </a>
 </p>
 
 ---
@@ -196,9 +200,11 @@ Building an algorithm-driven platform for FPL decisions:
 
 | Achievement | Details |
 |-------------|---------|
+| ⚽ **Hoffenheim Academy** | 8 years at one of Germany's top football academies |
+| 🇩🇪 **German U16 National Team** | Called up to represent Germany |
 | 🎓 **MS Business Analytics** | Creighton University, 3.97 GPA |
 | 🎓 **Triple Bachelor's** | Int'l Business, Marketing, Business Intelligence |
-| ⚽ **D1 Team Captain** | 3.5 years leading 40-person squad |
+| 🏆 **D1 Team Captain** | 3.5 years leading 40-person squad |
 | 🏆 **NCAA Final Four** | Data-driven approach to tournament run |
 | 🏗️ **Built from Zero** | Complete data warehouse, no prior infrastructure |
 | 🌍 **Bilingual** | Native German, Fluent English |
@@ -209,10 +215,13 @@ Building an algorithm-driven platform for FPL decisions:
 
 I'm relocating to **Charleston, SC** in 2026 and seeking:
 
-- **Senior Data Engineer** or **Analytics Engineer** roles
+- **Analytics Leadership** roles where data drives strategy
+- **Senior Data Engineer** or **Analytics Engineer** positions
+- Opportunities to bridge the gap between technical execution and business decisions
 - Companies that value building things right over building things fast
-- Teams where data actually drives decisions
-- Remote-friendly or Charleston-based positions
+- Teams where data professionals have a seat at the decision-making table
+
+I'm not looking to be a back-end specialist who never sees the business impact. I want to **own outcomes**, not just outputs.
 
 **Available:** August 2026
 
@@ -227,6 +236,7 @@ I'm always happy to chat about:
 - Career transitions into data
 - Sports analytics
 - The athlete-to-tech pipeline
+- Leadership in technical roles
 
 ---
 
