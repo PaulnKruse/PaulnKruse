@@ -1,7 +1,10 @@
 <!--
   GITHUB PROFILE README - PAUL KRUSE
-  Version 2 - 2026-01-19
+  Version 7 - 2026-01-19
   Copy this to your PaulnKruse/PaulnKruse repo
+
+  FIX: Table width issue - using div-wrapped markdown instead of HTML elements
+       in table cells to maintain full-width table rendering
 -->
 
 <!-- Animated Header -->
@@ -23,20 +26,8 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/paul-n-kruse/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/_PaulKruse1_">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <!-- Uncomment when ready:
-  <a href="YOUR_WEBSITE">
-    <img src="https://img.shields.io/badge/Website-3B82F6?style=for-the-badge&logo=safari&logoColor=white" />
-  </a>
-  <a href="YOUR_SUBSTACK">
-    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" />
-  </a>
-  -->
+  <a href="https://www.linkedin.com/in/paul-n-kruse/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/_PaulKruse1_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -50,11 +41,11 @@
 ```yaml
 name: Paul Kruse
 location: Germany → Omaha, NE → Charleston, SC
-current_focus: Building portfolio for US data & analytics leadership market
+current_focus: Translating complex data into strategic business decisions
 
 background:
   - Hoffenheim Academy Goalkeeper (8 years) → German U16 National Team
-  - D1 Athlete at Creighton University (5 years)
+  - D1 Athlete & Team Captain at Creighton University (5 years)
   - MS Business Analytics (3.97 GPA)
   - Built entire data infrastructure at a health-tech startup
 
@@ -87,42 +78,52 @@ Now I'm bringing that same **build-from-nothing** mentality to every project.
 
 ---
 
-## What I'm Building
+## Areas of Expertise
 
 <table>
 <tr>
 <td width="50%">
 
+<div align="center">
+
 ### 🏗️ Data Warehouse Architecture
 *Bronze-Silver-Gold medallion design*
 
-Building a public case study of how I architected a complete data warehouse from scratch, including:
+</div>
+
+End-to-end data warehouse implementation:
 - Source system integration
 - Data modeling decisions
 - Transformation logic
 - Quality validation
 
-
 </td>
 <td width="50%">
+
+<div align="center">
 
 ### 📊 Marketing Analytics
 *Ad spend optimization & attribution*
 
-Multi-channel marketing analytics with:
+</div>
+
+Multi-channel marketing analytics:
 - Meta/Google Ads integration
 - Conversion tracking
 - ROI analysis
 - Automated reporting
-
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
+<div align="center">
+
 ### 📈 Growth Analytics
 *Retention, cohorts, and funnels*
+
+</div>
 
 Product analytics covering:
 - User retention analysis
@@ -130,19 +131,21 @@ Product analytics covering:
 - Onboarding funnel optimization
 - Feature utilization tracking
 
-
 </td>
 <td width="50%">
+
+<div align="center">
 
 ### ⚽ Sports Analytics
 *Where my passion meets my profession*
 
-Combining my athletic background with data science:
+</div>
+
+Combining athletics with data science:
 - Player performance modeling
 - Match outcome predictions
 - Fantasy sports optimization
-- The intersection of competition and analytics
-
+- Competition meets analytics
 
 </td>
 </tr>
@@ -152,47 +155,20 @@ Combining my athletic background with data science:
 
 ## Tech Stack
 
-<p align="center">
-  <b>Data Engineering</b>
-</p>
-<p align="center">
-  <a href="https://www.snowflake.com/">
-    <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-  </a>
-  <a href="https://www.getdbt.com/">
-    <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
-  </a>
-  <a href="https://www.fivetran.com/">
-    <img src="https://img.shields.io/badge/Fivetran-0073FF?style=for-the-badge&logo=fivetran&logoColor=white" />
-  </a>
-</p>
+<p align="center"><b>Data Engineering</b></p>
+<p align="center"><a href="https://www.snowflake.com/"><img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" /></a> <a href="https://www.getdbt.com/"><img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" /></a> <a href="https://www.fivetran.com/"><img src="https://img.shields.io/badge/Fivetran-0073FF?style=for-the-badge&logo=fivetran&logoColor=white" /></a></p>
 
-<p align="center">
-  <b>Languages & Analysis</b>
-</p>
-<p align="center">
-  <a href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-  <a href="https://pandas.pydata.org/">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  </a>
-</p>
+<p align="center"><b>Languages & Analysis</b></p>
+<p align="center"><a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /></a> <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a> <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a> <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /></a></p>
 
-<p align="center">
-  <b>Visualization & BI</b>
-</p>
-<p align="center">
-  <a href="https://www.tableau.com/">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  </a>
-  <a href="https://powerbi.microsoft.com/">
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  </a>
-</p>
+<p align="center"><b>Visualization & BI</b></p>
+<p align="center"><a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a> <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a></p>
+
+<p align="center"><b>Analytics Tools</b></p>
+<p align="center"><a href="https://mixpanel.com/"><img src="https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white" /></a> <a href="https://analytics.google.com/"><img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" /></a> <a href="https://www.facebook.com/business/ads"><img src="https://img.shields.io/badge/Meta%20Ads-0081FB?style=for-the-badge&logo=meta&logoColor=white" /></a> <a href="https://uxcam.com/"><img src="https://img.shields.io/badge/UXCam-00D4AA?style=for-the-badge&logoColor=white" /></a> <a href="https://customer.io/"><img src="https://img.shields.io/badge/Customer.io-1AB394?style=for-the-badge&logoColor=white" /></a> <a href="https://www.appsflyer.com/"><img src="https://img.shields.io/badge/AppsFlyer-12CBC4?style=for-the-badge&logoColor=white" /></a></p>
+
+<p align="center"><b>Collaboration & Workflow</b></p>
+<p align="center"><a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /></a> <a href="https://www.atlassian.com/software/confluence"><img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" /></a> <a href="https://www.microsoft.com/en-us/microsoft-365"><img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" /></a> <a href="https://slack.com/"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a></p>
 
 ---
 
@@ -213,23 +189,19 @@ Combining my athletic background with data science:
 
 ## What I'm Looking For
 
-I'm relocating to **Charleston, SC** in 2026 and seeking:
-
 - **Analytics Leadership** roles where data drives strategy
-- **Senior Data Engineer** or **Analytics Engineer** positions
-- Opportunities to bridge the gap between technical execution and business decisions
+- **Management**, **Senior Data Engineer** or **Analytics Engineer** positions
+- Opportunities to bridge technical execution and business decisions
 - Companies that value building things right over building things fast
 - Teams where data professionals have a seat at the decision-making table
 
 I'm not looking to be a back-end specialist who never sees the business impact. I want to **own outcomes**, not just outputs.
 
-**Available:** August 2026
-
 ---
 
 ## Let's Connect
 
-The best way to reach me is through **[LinkedIn](https://www.linkedin.com/in/paul-n-kruse/)**.
+Reach me through **[LinkedIn](https://www.linkedin.com/in/paul-n-kruse/)** or email me at **[paulnkruse@gmail.com](mailto:paulnkruse@gmail.com)**.
 
 I'm always happy to chat about:
 - Data warehouse architecture
